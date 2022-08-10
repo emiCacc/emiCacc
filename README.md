@@ -1,16 +1,22 @@
-### Hi there 👋
+<p align="center">
+  <img src="" />
+</p>
 
-<!--
-**emiCacc/emiCacc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+import SoftwareDeveloper from 'emiCacc';
 
-Here are some ideas to get you started:
+class Bio extends SoftwareDeveloper {
+  name     = 'Emiliano Morales';
+  title    = 'Frontend Developer';
+  company  = 'Bizit Global';
+  location = 'Mendoza, Argentina';
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'TypeScript', 'PHP', "Java"];
+  databases  = ['MySQL', 'MongoDB', 'PL/SQL'];
+  frameworks = ['Angular', 'ZK'];
+}
+```
+
+⭐️ From [emiCacc](https://github.com/emiCacc)
