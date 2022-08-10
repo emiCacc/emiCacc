@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="" />
-</p>
+</p> -->
 
 ```js
 import SoftwareDeveloper from 'emiCacc';
