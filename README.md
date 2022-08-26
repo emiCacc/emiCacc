@@ -7,7 +7,7 @@ import SoftwareDeveloper from 'emiCacc';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Emiliano Morales';
-  title    = 'Frontend Developer';
+  title    = 'Fullstack Developer';
   company  = 'Bizit Global';
   location = 'Mendoza, Argentina';
 }
